@@ -5,7 +5,7 @@ Python implementations of labs from "Introduction to Statistical Learning" (ISL)
 ## Setup
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/python-isl-labs.git
+git clone https://github.com/jesusAguirreCaro/ISL-python-poetry.git
 cd python-isl-labs
 
 # Install Poetry (if not already installed)
